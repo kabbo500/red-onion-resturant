@@ -1,0 +1,15 @@
+.menu-item a {
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.cart-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin-bottom: 50px;
+    padding: 8px 20px;
+    border-radius: 20px;
+    border: none;
+}
